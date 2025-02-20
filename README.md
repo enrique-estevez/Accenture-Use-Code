@@ -5,6 +5,7 @@ En este repositorio encontrarás una serie de notebooks interactivos diseñados 
 El análisis de series temporales es crucial en múltiples campos como finanzas, economía, climatología, marketing y mantenimiento predictivo, donde comprender la evolución de los datos en el tiempo permite tomar mejores decisiones y anticiparse a eventos futuros. Sin embargo, los modelos más tradicionales tienen limitaciones cuando los datos presentan relaciones complejas, cambios estructurales o ruido significativo, por ello se pone foco en otras herramientas que complementen y ayuden a tratar con ello en casos de uso reales.
 
 Los notebooks han sido diseñados para abordar estos desafíos con un enfoque práctico y teórico, donde cada archivo contiene:
+
 ✅ Explicaciones detalladas del concepto matemático detrás de cada técnica.
 ✅ Implementaciones en Python con librerías como statsmodels, pmdarima, scikit-learn, o arch.
 ✅ Ejemplos aplicados en series complejas, principalmente en datos financieros.
