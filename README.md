@@ -7,8 +7,11 @@ El análisis de series temporales es crucial en múltiples campos como finanzas,
 Los notebooks han sido diseñados para abordar estos desafíos con un enfoque práctico y teórico, donde cada archivo contiene:
 
 ✅ Explicaciones detalladas del concepto matemático detrás de cada técnica.
+
 ✅ Implementaciones en Python con librerías como statsmodels, pmdarima, scikit-learn, o arch.
+
 ✅ Ejemplos aplicados en series complejas, principalmente en datos financieros.
+
 ✅ Visualización e interpretación de resultados, facilitando el entendimiento de cada método y sus aplicaciones reales.
 
 Desde la detección de relaciones ocultas en los datos con cointegración, hasta la generación de escenarios futuros mediante modelos generativos avanzados, estos notebooks te proporcionarán una visión integral del análisis moderno de series temporales.
